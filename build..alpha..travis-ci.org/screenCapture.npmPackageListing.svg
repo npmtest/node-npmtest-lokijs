@@ -1,0 +1,250 @@
+<svg height="3950" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="3950" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 19:45:16 +0000  6449848 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 19:45:16 +0000      479 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 19:45:16 +0000     1633 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 19:45:16 +0000     1078 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 19:45:16 +0000     1631 bytes  OVERVIEW.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 19:45:16 +0000     4289 bytes  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 19:45:16 +0000       85 bytes  benchmark.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 19:45:16 +0000     8843 bytes  benchmark/benchmark.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 19:45:16 +0000    10228 bytes  benchmark/benchmark_binary.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 19:45:16 +0000     2930 bytes  benchmark/benchmark_nedb.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 19:45:16 +0000     2507 bytes  benchmark/benchmark_pouchdb.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 19:45:16 +0000      898 bytes  benchmark/benchmark_web.html</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 19:45:16 +0000     9797 bytes  benchmark/benchmark_web.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 19:45:16 +0000     3545 bytes  benchmark/destress.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 19:45:16 +0000   160513 bytes  benchmark/nedb.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 19:45:16 +0000      281 bytes  benchmark/package.json</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 19:45:16 +0000     2064 bytes  benchmark/run.html</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 19:45:16 +0000     5284 bytes  benchmark/stress.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 19:45:16 +0000    65238 bytes  benchmark/taffy.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 19:45:16 +0000      170 bytes  bower.json</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 19:45:16 +0000     8439 bytes  build/loki-indexed-adapter.min.js</tspan>
+<tspan x="10" y="362">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="378"> 21.  2017-04-21 19:45:16 +0000    85351 bytes  build/lokijs.min.js</tspan>
+<tspan x="10" y="394">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="410">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="426"> 22.  2017-04-21 19:45:16 +0000    85351 bytes  coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/base.c\</tspan>
+<tspan x="10" y="442">ss</tspan>
+<tspan x="10" y="458">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="474">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="490"> 23.  2017-04-21 19:45:16 +0000    85351 bytes  coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/index.\</tspan>
+<tspan x="10" y="506">html</tspan>
+<tspan x="10" y="522">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="538">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="554"> 24.  2017-04-21 19:45:16 +0000    85351 bytes  coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/pretti\</tspan>
+<tspan x="10" y="570">fy.css</tspan>
+<tspan x="10" y="586">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="602">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="618"> 25.  2017-04-21 19:45:16 +0000    85351 bytes  coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/pretti\</tspan>
+<tspan x="10" y="634">fy.js</tspan>
+<tspan x="10" y="650">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="666">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="682"> 26.  2017-04-21 19:45:16 +0000    85351 bytes  coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/sort-a\</tspan>
+<tspan x="10" y="698">rrow-sprite.png</tspan>
+<tspan x="10" y="714">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="730">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="746"> 27.  2017-04-21 19:45:16 +0000    85351 bytes  coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/sorter\</tspan>
+<tspan x="10" y="762">.js</tspan>
+<tspan x="10" y="778">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="794">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="810"> 28.  2017-04-21 19:45:16 +0000    85351 bytes  coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/src/in\</tspan>
+<tspan x="10" y="826">dex.html</tspan>
+<tspan x="10" y="842">sh: 1: Syntax error: "(" unexpected</tspan>
+<tspan x="10" y="858"> 29.  2017-04-21 19:45:16 +0000    85351 bytes  coverage/PhantomJS 2.1.1 (Mac OS X 0.0.0)/src/lo\</tspan>
+<tspan x="10" y="874">kijs.js.html</tspan>
+<tspan x="10" y="890"> 30.  2017-04-21 19:45:16 +0000   600525 bytes  coverage/nodejs/coverage.json</tspan>
+<tspan x="10" y="906"> 31.  2017-04-21 19:45:16 +0000     5143 bytes  coverage/nodejs/lcov-report/base.css</tspan>
+<tspan x="10" y="922"> 32.  2017-04-21 19:45:16 +0000     5630 bytes  coverage/nodejs/lcov-report/index.html</tspan>
+<tspan x="10" y="938"> 33.  2017-04-21 19:45:16 +0000      676 bytes  coverage/nodejs/lcov-report/prettify.css</tspan>
+<tspan x="10" y="954"> 34.  2017-04-21 19:45:16 +0000    17569 bytes  coverage/nodejs/lcov-report/prettify.js</tspan>
+<tspan x="10" y="970"> 35.  2017-04-21 19:45:16 +0000      209 bytes  coverage/nodejs/lcov-report/sort-arrow-sprite.pn\</tspan>
+<tspan x="10" y="986">g</tspan>
+<tspan x="10" y="1002"> 36.  2017-04-21 19:45:16 +0000     5174 bytes  coverage/nodejs/lcov-report/sorter.js</tspan>
+<tspan x="10" y="1018"> 37.  2017-04-21 19:45:16 +0000    11661 bytes  coverage/nodejs/lcov-report/spec/generic/autoUpd\</tspan>
+<tspan x="10" y="1034">ate.spec.js.html</tspan>
+<tspan x="10" y="1050"> 38.  2017-04-21 19:45:16 +0000    43699 bytes  coverage/nodejs/lcov-report/spec/generic/binaryi\</tspan>
+<tspan x="10" y="1066">dx.spec.js.html</tspan>
+<tspan x="10" y="1082"> 39.  2017-04-21 19:45:16 +0000     6864 bytes  coverage/nodejs/lcov-report/spec/generic/changes\</tspan>
+<tspan x="10" y="1098">Api.spec.js.html</tspan>
+<tspan x="10" y="1114"> 40.  2017-04-21 19:45:16 +0000    22648 bytes  coverage/nodejs/lcov-report/spec/generic/cloning\</tspan>
+<tspan x="10" y="1130">.spec.js.html</tspan>
+<tspan x="10" y="1146"> 41.  2017-04-21 19:45:16 +0000    10716 bytes  coverage/nodejs/lcov-report/spec/generic/collect\</tspan>
+<tspan x="10" y="1162">ion.spec.js.html</tspan>
+<tspan x="10" y="1178"> 42.  2017-04-21 19:45:16 +0000    11176 bytes  coverage/nodejs/lcov-report/spec/generic/dynamic\</tspan>
+<tspan x="10" y="1194">view.spec.js.html</tspan>
+<tspan x="10" y="1210"> 43.  2017-04-21 19:45:16 +0000     5091 bytes  coverage/nodejs/lcov-report/spec/generic/eventEm\</tspan>
+<tspan x="10" y="1226">itter.spec.js.html</tspan>
+<tspan x="10" y="1242"> 44.  2017-04-21 19:45:16 +0000    16848 bytes  coverage/nodejs/lcov-report/spec/generic/helpers\</tspan>
+<tspan x="10" y="1258">.spec.js.html</tspan>
+<tspan x="10" y="1274"> 45.  2017-04-21 19:45:16 +0000    16823 bytes  coverage/nodejs/lcov-report/spec/generic/index.h\</tspan>
+<tspan x="10" y="1290">tml</tspan>
+<tspan x="10" y="1306"> 46.  2017-04-21 19:45:16 +0000    12034 bytes  coverage/nodejs/lcov-report/spec/generic/joins.s\</tspan>
+<tspan x="10" y="1322">pec.js.html</tspan>
+<tspan x="10" y="1338"> 47.  2017-04-21 19:45:16 +0000     3818 bytes  coverage/nodejs/lcov-report/spec/generic/kv.spec\</tspan>
+<tspan x="10" y="1354">.js.html</tspan>
+<tspan x="10" y="1370"> 48.  2017-04-21 19:45:16 +0000    25821 bytes  coverage/nodejs/lcov-report/spec/generic/ops.spe\</tspan>
+<tspan x="10" y="1386">c.js.html</tspan>
+<tspan x="10" y="1402"> 49.  2017-04-21 19:45:16 +0000    77528 bytes  coverage/nodejs/lcov-report/spec/generic/persist\</tspan>
+<tspan x="10" y="1418">ence.spec.js.html</tspan>
+<tspan x="10" y="1434"> 50.  2017-04-21 19:45:16 +0000     9066 bytes  coverage/nodejs/lcov-report/spec/generic/remove.\</tspan>
+<tspan x="10" y="1450">spec.js.html</tspan>
+<tspan x="10" y="1466"> 51.  2017-04-21 19:45:16 +0000    14489 bytes  coverage/nodejs/lcov-report/spec/generic/sorting\</tspan>
+<tspan x="10" y="1482">Indexing.spec.js.html</tspan>
+<tspan x="10" y="1498"> 52.  2017-04-21 19:45:16 +0000     5791 bytes  coverage/nodejs/lcov-report/spec/generic/stage.s\</tspan>
+<tspan x="10" y="1514">pec.js.html</tspan>
+<tspan x="10" y="1530"> 53.  2017-04-21 19:45:16 +0000     9435 bytes  coverage/nodejs/lcov-report/spec/generic/stats.s\</tspan>
+<tspan x="10" y="1546">pec.js.html</tspan>
+<tspan x="10" y="1562"> 54.  2017-04-21 19:45:16 +0000   115705 bytes  coverage/nodejs/lcov-report/spec/generic/test.sp\</tspan>
+<tspan x="10" y="1578">ec.js.html</tspan>
+<tspan x="10" y="1594"> 55.  2017-04-21 19:45:16 +0000    17259 bytes  coverage/nodejs/lcov-report/spec/generic/transfo\</tspan>
+<tspan x="10" y="1610">rms.spec.js.html</tspan>
+<tspan x="10" y="1626"> 56.  2017-04-21 19:45:16 +0000    11223 bytes  coverage/nodejs/lcov-report/spec/generic/typed.s\</tspan>
+<tspan x="10" y="1642">pec.js.html</tspan>
+<tspan x="10" y="1658"> 57.  2017-04-21 19:45:16 +0000    12182 bytes  coverage/nodejs/lcov-report/spec/generic/unique.\</tspan>
+<tspan x="10" y="1674">spec.js.html</tspan>
+<tspan x="10" y="1690"> 58.  2017-04-21 19:45:16 +0000     5038 bytes  coverage/nodejs/lcov-report/spec/helpers/assert-\</tspan>
+<tspan x="10" y="1706">helpers.js.html</tspan>
+<tspan x="10" y="1722"> 59.  2017-04-21 19:45:16 +0000     3600 bytes  coverage/nodejs/lcov-report/spec/helpers/index.h\</tspan>
+<tspan x="10" y="1738">tml</tspan>
+<tspan x="10" y="1754"> 60.  2017-04-21 19:45:16 +0000    11425 bytes  coverage/nodejs/lcov-report/spec/node/cryptedFil\</tspan>
+<tspan x="10" y="1770">eAdapter.spec.js.html</tspan>
+<tspan x="10" y="1786"> 61.  2017-04-21 19:45:16 +0000     4314 bytes  coverage/nodejs/lcov-report/spec/node/index.html</tspan>
+<tspan x="10" y="1802"> 62.  2017-04-21 19:45:16 +0000     5595 bytes  coverage/nodejs/lcov-report/spec/node/nodePersis\</tspan>
+<tspan x="10" y="1818">tence.spec.js.html</tspan>
+<tspan x="10" y="1834"> 63.  2017-04-21 19:45:16 +0000     3615 bytes  coverage/nodejs/lcov-report/src/index.html</tspan>
+<tspan x="10" y="1850"> 64.  2017-04-21 19:45:16 +0000   632193 bytes  coverage/nodejs/lcov-report/src/lokijs.js.html</tspan>
+<tspan x="10" y="1866"> 65.  2017-04-21 19:45:16 +0000   104122 bytes  coverage/nodejs/lcov.info</tspan>
+<tspan x="10" y="1882"> 66.  2017-04-21 19:45:16 +0000      404 bytes  jsdoc-conf.json</tspan>
+<tspan x="10" y="1898"> 67.  2017-04-21 19:45:16 +0000    68975 bytes  jsdoc/Collection.html</tspan>
+<tspan x="10" y="1914"> 68.  2017-04-21 19:45:16 +0000     2847 bytes  jsdoc/Collection.module_Collection_Transforms.ht\</tspan>
+<tspan x="10" y="1930">ml</tspan>
+<tspan x="10" y="1946"> 69.  2017-04-21 19:45:16 +0000    33970 bytes  jsdoc/DynamicView.html</tspan>
+<tspan x="10" y="1962"> 70.  2017-04-21 19:45:16 +0000    67275 bytes  jsdoc/Loki.html</tspan>
+<tspan x="10" y="1978"> 71.  2017-04-21 19:45:16 +0000    12639 bytes  jsdoc/LokiEventEmitter.html</tspan>
+<tspan x="10" y="1994"> 72.  2017-04-21 19:45:16 +0000     8362 bytes  jsdoc/LokiFsAdapter.html</tspan>
+<tspan x="10" y="2010"> 73.  2017-04-21 19:45:16 +0000    13388 bytes  jsdoc/LokiFsStructuredAdapter.html</tspan>
+<tspan x="10" y="2026"> 74.  2017-04-21 19:45:16 +0000    16904 bytes  jsdoc/LokiIndexedAdapter.html</tspan>
+<tspan x="10" y="2042"> 75.  2017-04-21 19:45:16 +0000     8400 bytes  jsdoc/LokiLocalStorageAdapter.html</tspan>
+<tspan x="10" y="2058"> 76.  2017-04-21 19:45:16 +0000    10394 bytes  jsdoc/LokiMemoryAdapter.html</tspan>
+<tspan x="10" y="2074"> 77.  2017-04-21 19:45:16 +0000    10740 bytes  jsdoc/LokiPartitioningAdapter.html</tspan>
+<tspan x="10" y="2090"> 78.  2017-04-21 19:45:16 +0000    38757 bytes  jsdoc/Resultset.html</tspan>
+<tspan x="10" y="2106"> 79.  2017-04-21 19:45:16 +0000    19544 bytes  jsdoc/fonts/OpenSans-Bold-webfont.eot</tspan>
+<tspan x="10" y="2122"> 80.  2017-04-21 19:45:16 +0000   118259 bytes  jsdoc/fonts/OpenSans-Bold-webfont.svg</tspan>
+<tspan x="10" y="2138"> 81.  2017-04-21 19:45:16 +0000    22432 bytes  jsdoc/fonts/OpenSans-Bold-webfont.woff</tspan>
+<tspan x="10" y="2154"> 82.  2017-04-21 19:45:16 +0000    20133 bytes  jsdoc/fonts/OpenSans-BoldItalic-webfont.eot</tspan>
+<tspan x="10" y="2170"> 83.  2017-04-21 19:45:16 +0000   121112 bytes  jsdoc/fonts/OpenSans-BoldItalic-webfont.svg</tspan>
+<tspan x="10" y="2186"> 84.  2017-04-21 19:45:16 +0000    23048 bytes  jsdoc/fonts/OpenSans-BoldItalic-webfont.woff</tspan>
+<tspan x="10" y="2202"> 85.  2017-04-21 19:45:16 +0000    20265 bytes  jsdoc/fonts/OpenSans-Italic-webfont.eot</tspan>
+<tspan x="10" y="2218"> 86.  2017-04-21 19:45:16 +0000   122495 bytes  jsdoc/fonts/OpenSans-Italic-webfont.svg</tspan>
+<tspan x="10" y="2234"> 87.  2017-04-21 19:45:16 +0000    23188 bytes  jsdoc/fonts/OpenSans-Italic-webfont.woff</tspan>
+<tspan x="10" y="2250"> 88.  2017-04-21 19:45:16 +0000    19514 bytes  jsdoc/fonts/OpenSans-Light-webfont.eot</tspan>
+<tspan x="10" y="2266"> 89.  2017-04-21 19:45:16 +0000   117270 bytes  jsdoc/fonts/OpenSans-Light-webfont.svg</tspan>
+<tspan x="10" y="2282"> 90.  2017-04-21 19:45:16 +0000    22248 bytes  jsdoc/fonts/OpenSans-Light-webfont.woff</tspan>
+<tspan x="10" y="2298"> 91.  2017-04-21 19:45:16 +0000    20535 bytes  jsdoc/fonts/OpenSans-LightItalic-webfont.eot</tspan>
+<tspan x="10" y="2314"> 92.  2017-04-21 19:45:16 +0000   122968 bytes  jsdoc/fonts/OpenSans-LightItalic-webfont.svg</tspan>
+<tspan x="10" y="2330"> 93.  2017-04-21 19:45:16 +0000    23400 bytes  jsdoc/fonts/OpenSans-LightItalic-webfont.woff</tspan>
+<tspan x="10" y="2346"> 94.  2017-04-21 19:45:16 +0000    19836 bytes  jsdoc/fonts/OpenSans-Regular-webfont.eot</tspan>
+<tspan x="10" y="2362"> 95.  2017-04-21 19:45:16 +0000   119399 bytes  jsdoc/fonts/OpenSans-Regular-webfont.svg</tspan>
+<tspan x="10" y="2378"> 96.  2017-04-21 19:45:16 +0000    22660 bytes  jsdoc/fonts/OpenSans-Regular-webfont.woff</tspan>
+<tspan x="10" y="2394"> 97.  2017-04-21 19:45:16 +0000     4386 bytes  jsdoc/index.html</tspan>
+<tspan x="10" y="2410"> 98.  2017-04-21 19:45:16 +0000    10657 bytes  jsdoc/loki-fs-structured-adapter.js.html</tspan>
+<tspan x="10" y="2426"> 99.  2017-04-21 19:45:16 +0000    21821 bytes  jsdoc/loki-indexed-adapter.js.html</tspan>
+<tspan x="10" y="2442">100.  2017-04-21 19:45:16 +0000   219162 bytes  jsdoc/lokijs.js.html</tspan>
+<tspan x="10" y="2458">101.  2017-04-21 19:45:16 +0000      674 bytes  jsdoc/scripts/linenumber.js</tspan>
+<tspan x="10" y="2474">102.  2017-04-21 19:45:16 +0000    11358 bytes  jsdoc/scripts/prettify/Apache-License-2.0.txt</tspan>
+<tspan x="10" y="2490">103.  2017-04-21 19:45:16 +0000      861 bytes  jsdoc/scripts/prettify/lang-css.js</tspan>
+<tspan x="10" y="2506">104.  2017-04-21 19:45:16 +0000    13632 bytes  jsdoc/scripts/prettify/prettify.js</tspan>
+<tspan x="10" y="2522">105.  2017-04-21 19:45:16 +0000     6033 bytes  jsdoc/styles/jsdoc-default.css</tspan>
+<tspan x="10" y="2538">106.  2017-04-21 19:45:16 +0000     1535 bytes  jsdoc/styles/prettify-jsdoc.css</tspan>
+<tspan x="10" y="2554">107.  2017-04-21 19:45:16 +0000     2026 bytes  jsdoc/styles/prettify-tomorrow.css</tspan>
+<tspan x="10" y="2570">ls: cannot access jsdoc/tutorial-Autoupdating: No such file or directory</tspan>
+<tspan x="10" y="2586">ls: cannot access Collections.html: No such file or directory</tspan>
+<tspan x="10" y="2602">108.  2017-04-21 19:45:16 +0000     2026 bytes  jsdoc/tutorial-Autoupdating Collections.html</tspan>
+<tspan x="10" y="2618">ls: cannot access jsdoc/tutorial-Changes: No such file or directory</tspan>
+<tspan x="10" y="2634">ls: cannot access API.html: No such file or directory</tspan>
+<tspan x="10" y="2650">109.  2017-04-21 19:45:16 +0000     2026 bytes  jsdoc/tutorial-Changes API.html</tspan>
+<tspan x="10" y="2666">ls: cannot access jsdoc/tutorial-Collection: No such file or directory</tspan>
+<tspan x="10" y="2682">ls: cannot access Transforms.html: No such file or directory</tspan>
+<tspan x="10" y="2698">110.  2017-04-21 19:45:16 +0000     2026 bytes  jsdoc/tutorial-Collection Transforms.html</tspan>
+<tspan x="10" y="2714">ls: cannot access jsdoc/tutorial-Indexing: No such file or directory</tspan>
+<tspan x="10" y="2730">ls: cannot access and: No such file or directory</tspan>
+<tspan x="10" y="2746">ls: cannot access Query: No such file or directory</tspan>
+<tspan x="10" y="2762">ls: cannot access performance.html: No such file or directory</tspan>
+<tspan x="10" y="2778">111.  2017-04-21 19:45:16 +0000     2026 bytes  jsdoc/tutorial-Indexing and Query performance.ht\</tspan>
+<tspan x="10" y="2794">ml</tspan>
+<tspan x="10" y="2810">ls: cannot access jsdoc/tutorial-Loki: No such file or directory</tspan>
+<tspan x="10" y="2826">ls: cannot access Angular.html: No such file or directory</tspan>
+<tspan x="10" y="2842">112.  2017-04-21 19:45:16 +0000     2026 bytes  jsdoc/tutorial-Loki Angular.html</tspan>
+<tspan x="10" y="2858">ls: cannot access jsdoc/tutorial-Persistence: No such file or directory</tspan>
+<tspan x="10" y="2874">ls: cannot access Adapters.html: No such file or directory</tspan>
+<tspan x="10" y="2890">113.  2017-04-21 19:45:16 +0000     2026 bytes  jsdoc/tutorial-Persistence Adapters.html</tspan>
+<tspan x="10" y="2906">ls: cannot access jsdoc/tutorial-Query: No such file or directory</tspan>
+<tspan x="10" y="2922">ls: cannot access Examples.html: No such file or directory</tspan>
+<tspan x="10" y="2938">114.  2017-04-21 19:45:16 +0000     2026 bytes  jsdoc/tutorial-Query Examples.html</tspan>
+<tspan x="10" y="2954">115.  2017-04-21 19:45:16 +0000     3889 bytes  jsdoc/tutorial-TEST.html</tspan>
+<tspan x="10" y="2970">116.  2017-04-21 19:45:16 +0000     1904 bytes  karma.build.conf.js</tspan>
+<tspan x="10" y="2986">117.  2017-04-21 19:45:16 +0000     2057 bytes  karma.conf.js</tspan>
+<tspan x="10" y="3002">118.  2017-04-21 19:45:16 +0000     3479 bytes  package.json</tspan>
+<tspan x="10" y="3018">119.  2017-04-21 19:45:16 +0000       92 bytes  spec/browser/README.md</tspan>
+<tspan x="10" y="3034">120.  2017-04-21 19:45:16 +0000      103 bytes  spec/generic/README.md</tspan>
+<tspan x="10" y="3050">121.  2017-04-21 19:45:16 +0000     1897 bytes  spec/generic/autoUpdate.spec.js</tspan>
+<tspan x="10" y="3066">122.  2017-04-21 19:45:16 +0000    16564 bytes  spec/generic/binaryidx.spec.js</tspan>
+<tspan x="10" y="3082">123.  2017-04-21 19:45:16 +0000     1547 bytes  spec/generic/changesApi.spec.js</tspan>
+<tspan x="10" y="3098">124.  2017-04-21 19:45:16 +0000     8305 bytes  spec/generic/cloning.spec.js</tspan>
+<tspan x="10" y="3114">125.  2017-04-21 19:45:16 +0000     3233 bytes  spec/generic/collection.spec.js</tspan>
+<tspan x="10" y="3130">126.  2017-04-21 19:45:16 +0000     3276 bytes  spec/generic/dynamicview.spec.js</tspan>
+<tspan x="10" y="3146">127.  2017-04-21 19:45:16 +0000      810 bytes  spec/generic/eventEmitter.spec.js</tspan>
+<tspan x="10" y="3162">128.  2017-04-21 19:45:16 +0000     4772 bytes  spec/generic/helpers.spec.js</tspan>
+<tspan x="10" y="3178">129.  2017-04-21 19:45:16 +0000     2999 bytes  spec/generic/joins.spec.js</tspan>
+<tspan x="10" y="3194">130.  2017-04-21 19:45:16 +0000      493 bytes  spec/generic/kv.spec.js</tspan>
+<tspan x="10" y="3210">131.  2017-04-21 19:45:16 +0000    10229 bytes  spec/generic/ops.spec.js</tspan>
+<tspan x="10" y="3226">132.  2017-04-21 19:45:16 +0000    31624 bytes  spec/generic/persistence.spec.js</tspan>
+<tspan x="10" y="3242">133.  2017-04-21 19:45:16 +0000     2051 bytes  spec/generic/remove.spec.js</tspan>
+<tspan x="10" y="3258">134.  2017-04-21 19:45:16 +0000     4788 bytes  spec/generic/sortingIndexing.spec.js</tspan>
+<tspan x="10" y="3274">135.  2017-04-21 19:45:16 +0000     1198 bytes  spec/generic/stage.spec.js</tspan>
+<tspan x="10" y="3290">136.  2017-04-21 19:45:16 +0000     2043 bytes  spec/generic/stats.spec.js</tspan>
+<tspan x="10" y="3306">137.  2017-04-21 19:45:16 +0000    34731 bytes  spec/generic/test.spec.js</tspan>
+<tspan x="10" y="3322">138.  2017-04-21 19:45:16 +0000     4066 bytes  spec/generic/transforms.spec.js</tspan>
+<tspan x="10" y="3338">139.  2017-04-21 19:45:16 +0000     2652 bytes  spec/generic/typed.spec.js</tspan>
+<tspan x="10" y="3354">140.  2017-04-21 19:45:16 +0000     3796 bytes  spec/generic/unique.spec.js</tspan>
+<tspan x="10" y="3370">141.  2017-04-21 19:45:16 +0000      679 bytes  spec/helpers/assert-helpers.js</tspan>
+<tspan x="10" y="3386">142.  2017-04-21 19:45:16 +0000       93 bytes  spec/node/README.md</tspan>
+<tspan x="10" y="3402">143.  2017-04-21 19:45:16 +0000     3001 bytes  spec/node/cryptedFileAdapter.spec.js</tspan>
+<tspan x="10" y="3418">144.  2017-04-21 19:45:16 +0000     1115 bytes  spec/node/nodePersistence.spec.js</tspan>
+<tspan x="10" y="3434">145.  2017-04-21 19:45:16 +0000      137 bytes  spec/support/jasmine.json</tspan>
+<tspan x="10" y="3450">146.  2017-04-21 19:45:16 +0000     2754 bytes  src/jquery-sync-adapter.js</tspan>
+<tspan x="10" y="3466">147.  2017-04-21 19:45:16 +0000    23951 bytes  src/loki-angular.js</tspan>
+<tspan x="10" y="3482">148.  2017-04-21 19:45:16 +0000     6105 bytes  src/loki-crypted-file-adapter.js</tspan>
+<tspan x="10" y="3498">149.  2017-04-21 19:45:16 +0000     8262 bytes  src/loki-fs-structured-adapter.js</tspan>
+<tspan x="10" y="3514">150.  2017-04-21 19:45:16 +0000     2182 bytes  src/loki-incremental-adapter.js</tspan>
+<tspan x="10" y="3530">151.  2017-04-21 19:45:16 +0000    19436 bytes  src/loki-indexed-adapter.js</tspan>
+<tspan x="10" y="3546">152.  2017-04-21 19:45:16 +0000     1931 bytes  src/loki-nativescript-adapter.js</tspan>
+<tspan x="10" y="3562">153.  2017-04-21 19:45:16 +0000   215890 bytes  src/lokijs.js</tspan>
+<tspan x="10" y="3578">ls: cannot access tutorials/Autoupdating: No such file or directory</tspan>
+<tspan x="10" y="3594">ls: cannot access Collections.md: No such file or directory</tspan>
+<tspan x="10" y="3610">154.  2017-04-21 19:45:16 +0000   215890 bytes  tutorials/Autoupdating Collections.md</tspan>
+<tspan x="10" y="3626">ls: cannot access tutorials/Changes: No such file or directory</tspan>
+<tspan x="10" y="3642">ls: cannot access API.md: No such file or directory</tspan>
+<tspan x="10" y="3658">155.  2017-04-21 19:45:16 +0000   215890 bytes  tutorials/Changes API.md</tspan>
+<tspan x="10" y="3674">ls: cannot access tutorials/Collection: No such file or directory</tspan>
+<tspan x="10" y="3690">ls: cannot access Transforms.md: No such file or directory</tspan>
+<tspan x="10" y="3706">156.  2017-04-21 19:45:16 +0000   215890 bytes  tutorials/Collection Transforms.md</tspan>
+<tspan x="10" y="3722">ls: cannot access tutorials/Indexing: No such file or directory</tspan>
+<tspan x="10" y="3738">ls: cannot access and: No such file or directory</tspan>
+<tspan x="10" y="3754">ls: cannot access Query: No such file or directory</tspan>
+<tspan x="10" y="3770">ls: cannot access performance.md: No such file or directory</tspan>
+<tspan x="10" y="3786">157.  2017-04-21 19:45:16 +0000   215890 bytes  tutorials/Indexing and Query performance.md</tspan>
+<tspan x="10" y="3802">ls: cannot access tutorials/Loki: No such file or directory</tspan>
+<tspan x="10" y="3818">ls: cannot access Angular.md: No such file or directory</tspan>
+<tspan x="10" y="3834">158.  2017-04-21 19:45:16 +0000   215890 bytes  tutorials/Loki Angular.md</tspan>
+<tspan x="10" y="3850">ls: cannot access tutorials/Persistence: No such file or directory</tspan>
+<tspan x="10" y="3866">ls: cannot access Adapters.md: No such file or directory</tspan>
+<tspan x="10" y="3882">159.  2017-04-21 19:45:16 +0000   215890 bytes  tutorials/Persistence Adapters.md</tspan>
+<tspan x="10" y="3898">ls: cannot access tutorials/Query: No such file or directory</tspan>
+<tspan x="10" y="3914">ls: cannot access Examples.md: No such file or directory</tspan>
+<tspan x="10" y="3930">160.  2017-04-21 19:45:16 +0000   215890 bytes  tutorials/Query Examples.md</tspan>
+</text>
+</svg>
